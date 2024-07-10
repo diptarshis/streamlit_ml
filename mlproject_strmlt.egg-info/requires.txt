@@ -1,0 +1,10 @@
+holidays
+numpy
+pandas
+scikit-learn
+streamlit
+matplotlib
+PyWavelets
+openpyxl
+seaborn
+imblearn

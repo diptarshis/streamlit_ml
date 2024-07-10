@@ -1,0 +1,7 @@
+README.md
+setup.py
+mlproject_strmlt.egg-info/PKG-INFO
+mlproject_strmlt.egg-info/SOURCES.txt
+mlproject_strmlt.egg-info/dependency_links.txt
+mlproject_strmlt.egg-info/requires.txt
+mlproject_strmlt.egg-info/top_level.txt
