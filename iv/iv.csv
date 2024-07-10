@@ -1,0 +1,57 @@
+feature,iv,number_of_classes,feature_null_percent,remarks
+ENT,0.5363454605864567,2,0.0,categorical
+SMB,0.5363454605864567,2,0.0,categorical
+activate,0.245862054317197,2,0.0,categorical
+percentile_50_flag_lt,0.21214996676226833,4,0.0,binned monotonically
+percentile_50_flag_gt,0.20453634090557532,4,0.0,binned monotonically
+min,0.17305842831241816,7,0.0,binned monotonically
+median_l3,0.17167524638302772,4,0.0,binned monotonically
+mean_l3,0.17053758230595886,3,0.0,binned monotonically
+min_l3,0.1700749776148865,5,0.0,binned monotonically
+median,0.17001537450772597,3,0.0,binned monotonically
+max_a1_dwt,0.16934417745130947,3,0.0,binned monotonically
+median_l6,0.16924179481751805,3,0.0,binned monotonically
+mean_l6,0.1678020206944866,3,0.0,binned monotonically
+max_l3,0.16730518718760878,3,0.0,binned monotonically
+mean,0.1669014672330122,3,0.0,binned monotonically
+mean_a1_dwt,0.1669014672330122,3,0.0,binned monotonically
+max_l6,0.16666505286065134,3,0.0,binned monotonically
+median_a1_dwt,0.16428812316991473,3,0.0,binned monotonically
+max,0.16238040451281313,3,0.0,binned monotonically
+min_l6,0.1599851890796095,6,0.0,binned monotonically
+std_l6,0.15321822822490608,4,0.010125,binned monotonically
+std,0.14848646382123545,4,0.010125,binned monotonically
+percentile_25_flag_gt,0.13334193365287075,3,0.0,binned monotonically
+std_a2_dwt,0.12744421470352918,4,0.0,binned monotonically
+std_l3,0.1258214599617877,7,0.010125,binned monotonically
+percentile_25_flag_lt,0.12252246508063463,3,0.0,binned monotonically
+max_a2_dwt,0.09769188862255612,4,0.0,binned monotonically
+std_a1_dwt,0.09310164005258882,5,0.0,binned monotonically
+percentile_75_flag_lt,0.06940929806234185,3,0.0,binned monotonically
+percentile_75_flag_gt,0.06398502483485463,3,0.0,binned monotonically
+percentile_10_flag_gt,0.039670460934951975,2,0.0,binned monotonically
+percentile_10_flag_lt,0.0386579862519923,2,0.0,binned monotonically
+percentile_5_flag_gt,0.0202818803959028,2,0.0,binned monotonically
+percentile_5_flag_lt,0.01746685665403788,2,0.0,binned monotonically
+percentile_1_flag_gt,0.012510679275076875,2,0.0,binned forcefully
+percentile_1_flag_lt,0.011520897469019787,2,0.0,binned forcefully
+percentile_95_flag_gt,0.010929017779515198,3,0.0,binned monotonically
+percentile_95_flag_lt,0.010925407368573026,3,0.0,binned monotonically
+percentile_99_flag_lt,0.003917556027735883,2,0.0,binned forcefully
+percentile_99_flag_gt,0.003917556027735883,2,0.0,binned forcefully
+trend_slope,0.001746689049178843,2,0.0,binned forcefully
+Independence_Day_observed,0.0009433251203559189,3,0.0,binned monotonically
+New_Years_Day,0.0007221844744961226,3,0.0,binned monotonically
+r2,0.0006921691657065578,3,0.010125,binned forcefully
+Veterans_Day,0.0005763477093020715,2,0.0,binned monotonically
+Washingtons_Birthday,0.0005216424628777575,3,0.0,binned monotonically
+Thanksgiving,0.0004930165492689679,2,0.0,binned monotonically
+Columbus_Day,0.00045715048120282425,2,0.0,binned monotonically
+Christmas_Day,0.00020901862365890102,2,0.0,binned monotonically
+median_a2_dwt,0.0001737844285186669,2,0.0,binned forcefully
+Memorial_Day,5.939812345283304e-05,2,0.0,binned monotonically
+mean_a2_dwt,4.136553106262938e-05,2,0.0,binned forcefully
+Labor_Day,3.749092872619744e-05,3,0.0,binned monotonically
+Martin_Luther_King_Jr_Day,3.3763832728077195e-06,2,0.0,binned monotonically
+Independence_Day,9.245458599688204e-08,2,0.0,binned monotonically
+acct_id,0.0,8000,0.0,categorical
